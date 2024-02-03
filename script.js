@@ -288,6 +288,10 @@ document.addEventListener("DOMContentLoaded", function () {
   <p>
     Pasitikrinti, kaip atrodo grafikai, galite čia:
     <a href="https://desmos.com/calculator">desmos.com/calculator</a>
+  </p>
+  <p>
+    Kam įdomu, ar norit prisidėti prie tinklapio kodo rašymo, kodas patalpintas čia:
+    <a href="https://github.com/naglissul/math-test-maker">github.com/naglissul/math-test-maker</a>
   </p>`;
   const container = document.querySelector(".container");
   questions.forEach((question, index) => {

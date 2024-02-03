@@ -41,3 +41,43 @@ label {
 .incorrect {
   color: red;
 }
+
+.description {
+  background-color: #f9f9f9;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  font-size: 1.1em;
+  color: #333;
+}
+
+.description h2 {
+  font-size: 1.4em;
+  margin-top: 0;
+}
+
+.description p {
+  line-height: 1.6;
+  margin: 10px 0;
+}
+
+.description {
+  background-color: #f9f9f9;
+  border-left: 4px solid #333;
+  padding: 10px 20px;
+  margin: auto; /* Centers the div */
+  margin-bottom: 20px;
+  font-size: 1.1em;
+  color: #333;
+  width: 77%; /* Sets the width to one third */
+  margin-left: 10%; /* Positions the div starting after the first third */
+}
+
+.description h2 {
+  font-size: 1.4em;
+  margin-top: 0;
+}
+
+.description p {
+  line-height: 1.6;
+  margin: 10px 0;
+}
